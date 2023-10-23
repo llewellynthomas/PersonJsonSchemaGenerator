@@ -1,0 +1,14 @@
+{
+  "header": {
+    "id": "7710bdb4-cb0b-4944-a11e-dcdf4f5d98df",
+    "when": "2021-01-06T11:13:12.441799Z"
+  },
+  "body": {
+    "person": {
+      "firstName": "John",
+      "lastName": "Smith",
+      "dateOfBirth": "1983-10-22",
+      "country": "uk"
+    }
+  }
+}

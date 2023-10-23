@@ -1,0 +1,43 @@
+ {
+  "properties" : {
+    "header" : {
+      "type" : "object",
+      "additionalProperties" : false,
+      "properties" : {
+        "id" : {
+          "type" : "string"
+        },
+        "when" : {
+          "type" : "string"
+        }
+      },
+      "required" : [
+        "id",
+        "when"
+      ]
+    },
+    "body" : {
+      "type" : "object",
+      "additionalProperties" : false,
+      "properties" : {
+        "firstName" : {
+          "type" : "string"
+        },
+        "lastName" : {
+          "type" : "string"
+        }
+      },
+      "required" : [
+        "firstName",
+        "lastName"
+      ]
+    }
+  },
+  "additionalProperties" : false,
+  "$schema" : "http://json-schema.org/draft-04/schema#",
+  "type" : "object",
+  "required" : [
+    "header",
+    "body"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "header" : {
+    "id" : "5e892ccc-1a59-4315-9442-1da5c2819c77",
+    "when" : "2023-10-21T00:00:00Z"
+  },
+  "body" : {
+    "firstName" : "john",
+    "lastName" : "smith"
+  }
+}

@@ -1,0 +1,15 @@
+object versions {
+  val AndyGlowJsonSchema = "0.7.8"
+  val Scala = "2.13.6"
+  val ScalaTest = "3.2.10"
+  val ScalaCheck = "1.15.4"
+  val ScalaTestPlusScalaCheck = "3.2.10.0"
+  val CirceJsonSchema = "0.2.0"
+  val Circe = "0.14.1"
+  val CirceGolden = "0.3.0"
+  val DisciplineScalaTest = "2.1.5"
+  val CatsScalaCheck = "0.3.1"
+  val ScalaCheckShapeless = "1.3.0"
+  val Zio = "1.0.13"
+  val ZioMagic = "0.3.11"
+}
